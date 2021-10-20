@@ -15,5 +15,6 @@ public class abc {
             System.out.print(s1[i]+" hotkey");
 
         }
+        System.out.println("second");
     }
 }
